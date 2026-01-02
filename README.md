@@ -56,7 +56,7 @@ This repository contains automated threat intelligence reports analyzing global 
 |------|---------|--------|------------|-------------|------------|--------|
 | Date | Victims | Groups | Top Sector | Top Country | Key Threat | Report |
 |------|---------|--------|------------|-------------|------------|--------|
-
+| 2026-01-02 | 152 | 15 | Manufacturing | US | CRITICAL Activity | [📄](reports/weekly-report-2026-01-02.md) |
 
 ## 🏷️ Report Categories
 
