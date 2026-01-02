@@ -14,6 +14,15 @@
 > - **Geographic Focus**: US (98 victims)
 > - **System Performance**: 5% group coverage, 95% uptime
 
+## 🖥️ Interactive Dashboard
+
+**Want real-time ransomware tracking?**
+👉 **[Visit Live Dashboard](https://invaders.ie/services/ransomware-tracker)** - Interactive analytics with live statistics, victim tracking, and group analysis.
+
+*Current Status: 44 active groups, 2,728+ total victims tracked*
+
+---
+
 ## 🎯 About This Project
 
 This repository contains automated threat intelligence reports analyzing global ransomware activity. Using custom-built web scraping infrastructure and machine learning analysis, these reports provide:
