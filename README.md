@@ -71,7 +71,7 @@ This repository contains automated threat intelligence reports analyzing global 
 ---
 
 **🔄 Weekly Updates**: New reports published every Friday
-**📧 Questions**: Open a GitHub issue for inquiries
+**📧 Questions**: lucas.verdan@invaders.ie or open a GitHub issue
 **📖 License**: Educational and defensive purposes only
 
 *Contributing to global cybersecurity awareness through automated threat intelligence.*

@@ -208,6 +208,6 @@ This report is generated through automated monitoring of 298 known ransomware gr
 
 ---
 
-**Next Report**: January 09, 2026 | **Questions?**: [Your Contact Info]
+**Next Report**: January 09, 2026 | **Questions?**: lucas.verdan@invaders.ie
 
 *This intelligence is for educational and defensive purposes only.*
