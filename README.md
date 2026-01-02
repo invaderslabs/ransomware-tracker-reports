@@ -17,7 +17,7 @@
 ## 🖥️ Interactive Dashboard
 
 **Want real-time ransomware tracking?**
-👉 **[Visit Live Dashboard](https://invaders.ie/services/ransomware-tracker)** - Interactive analytics with live statistics, victim tracking, and group analysis.
+👉 **[🔗 Visit Live Ransomware Tracker](https://invaders.ie/services/ransomware-tracker)** - Interactive dashboard with live statistics, victim tracking, and comprehensive group analysis.
 
 *Current Status: 44 active groups, 2,728+ total victims tracked*
 
