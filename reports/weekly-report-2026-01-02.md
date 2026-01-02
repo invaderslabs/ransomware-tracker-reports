@@ -1,6 +1,8 @@
 # 🚨 Weekly Ransomware Threat Intelligence Report
 
-**Week of December 26, 2025 - January 02, 2026** | **Prepared by: Independent Security Researcher**
+**Week of December 26, 2025 - January 02, 2026**
+
+**Prepared by: Lucas Oliveira - Threat Intelligence Researcher**
 
 ---
 

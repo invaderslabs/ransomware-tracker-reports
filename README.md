@@ -1,7 +1,8 @@
 # 🔍 Ransomware Threat Intelligence Reports
 
 **Automated weekly analysis of global ransomware activity**
-**Author:** Independent Security Researcher | **Frequency:** Weekly Updates
+
+**Author:** Lucas Oliveira - Threat Intelligence Researcher | **Frequency:** Weekly Updates
 
 ## 📊 Latest Report Summary
 
