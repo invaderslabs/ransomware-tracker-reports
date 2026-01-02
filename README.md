@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Ransomware Threat Intelligence Reports
 
 **Automated weekly analysis of global ransomware activity**
@@ -75,3 +76,6 @@ This repository contains automated threat intelligence reports analyzing global 
 **📖 License**: Educational and defensive purposes only
 
 *Contributing to global cybersecurity awareness through automated threat intelligence.*
+=======
+# ransomware-tracker-reports
+>>>>>>> d1a09dd694fba5d3e928a8638bf1fd5524000646
