@@ -6,13 +6,13 @@
 
 ## 📊 Latest Report Summary
 
-> **Week of December 26 - January 02, 2026**: 152 new victims identified across 15 active groups
-> **[Read Full Report →](reports/weekly-report-2026-01-02.md)**
+> **Week of January 04 - January 11, 2026**: 98 new victims identified across 12 active groups
+> **[Read Full Report →](reports/weekly-report-2026-01-11.md)**
 >
 > **Key Findings:**
-> - **Most Affected Sector**: Manufacturing (29 victims)
-> - **Geographic Focus**: US (98 victims)
-> - **System Performance**: 5% group coverage, 95% uptime
+> - **Most Affected Sector**: Other (41 victims)
+> - **Geographic Focus**: US (5 victims)
+> - **System Performance**: 4% group coverage, 95% uptime
 
 ## 🖥️ Interactive Dashboard
 
@@ -54,7 +54,7 @@ This repository contains automated threat intelligence reports analyzing global 
 
 | Date | Victims | Groups | Top Sector | Top Country | Key Threat | Report |
 |------|---------|--------|------------|-------------|------------|--------|
-| 2026-01-02 | 152 | 15 | Manufacturing | US | CRITICAL Activity | [📄](reports/weekly-report-2026-01-02.md) |
+| 2026-01-11 | 98 | 12 | Other | US | HIGH Activity | [📄](reports/weekly-report-2026-01-11.md) |
 
 ## 🏷️ Report Categories
 
