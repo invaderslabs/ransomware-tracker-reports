@@ -1,0 +1,26 @@
+# Ransomware.live - Threat Intelligence Repository
+# This repository only publishes reports, not source code or data
+
+# Ignore everything by default
+*
+
+# Allow these specific files/directories
+!README.md
+!reports/
+!reports/**
+
+# Explicitly ignore these (redundant but clear)
+bin/
+strapi-victims-sync/
+db/
+*.json
+tmp/
+logs/
+*.log
+.env*
+venv*/
+__pycache__/
+*.pyc
+images/
+requirements*.txt
+.github/
