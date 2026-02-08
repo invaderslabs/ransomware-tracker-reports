@@ -6,13 +6,13 @@
 
 ## 📊 Latest Report Summary
 
-> **Week of January 24 - January 31, 2026**: 81 new victims identified across 18 active groups
-> **[Read Full Report →](reports/weekly-report-2026-01-31.md)**
+> **Week of February 01 - February 08, 2026**: 305 new victims identified across 20 active groups
+> **[Read Full Report →](reports/weekly-report-2026-02-08.md)**
 >
 > **Key Findings:**
-> - **Most Affected Sector**: Other (23 victims)
-> - **Geographic Focus**: US (13 victims)
-> - **System Performance**: 6% group coverage, 95% uptime
+> - **Most Affected Sector**: Unknown (172 victims)
+> - **Geographic Focus**: US (54 victims)
+> - **System Performance**: 7% group coverage, 95% uptime
 
 ## 🖥️ Interactive Dashboard
 
@@ -27,7 +27,7 @@
 
 This repository contains automated threat intelligence reports analyzing global ransomware activity. Using custom-built web scraping infrastructure and machine learning analysis, these reports provide:
 
-- **Real-time monitoring** of 298+ known ransomware groups
+- **Real-time monitoring** of 299+ known ransomware groups
 - **Trend analysis** and emerging threat detection
 - **Impact assessment** across industry sectors
 - **Actionable recommendations** for cybersecurity teams
@@ -44,7 +44,7 @@ This repository contains automated threat intelligence reports analyzing global 
 - **Intelligence Analysis**: Attacker behavior pattern recognition
 
 ### Technical Infrastructure
-- **Monitoring Coverage**: 298 groups tracked
+- **Monitoring Coverage**: 299 groups tracked
 - **Data Freshness**: Updated within 24 hours of new incidents
 - **System Uptime**: 95% operational reliability
 - **Quality Assurance**: <0.1% error rate
@@ -54,7 +54,7 @@ This repository contains automated threat intelligence reports analyzing global 
 
 | Date | Victims | Groups | Top Sector | Top Country | Key Threat | Report |
 |------|---------|--------|------------|-------------|------------|--------|
-| 2026-01-31 | 81 | 18 | Other | US | HIGH Activity | [📄](reports/weekly-report-2026-01-31.md) |
+| 2026-02-08 | 305 | 20 | Unknown | US | CRITICAL Activity | [📄](reports/weekly-report-2026-02-08.md) |
 
 ## 🏷️ Report Categories
 
