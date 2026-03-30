@@ -6,13 +6,13 @@
 
 ## 📊 Latest Report Summary
 
-> **Week of March 08 - March 15, 2026**: 101 new victims identified across 18 active groups
-> **[Read Full Report →](reports/weekly-report-2026-03-15.md)**
+> **Week of March 23 - March 30, 2026**: 86 new victims identified across 14 active groups
+> **[Read Full Report →](reports/weekly-report-2026-03-30.md)**
 >
 > **Key Findings:**
-> - **Most Affected Sector**: Manufacturing (16 victims)
-> - **Geographic Focus**: US (37 victims)
-> - **System Performance**: 6% group coverage, 95% uptime
+> - **Most Affected Sector**: Other (17 victims)
+> - **Geographic Focus**: US (36 victims)
+> - **System Performance**: 5% group coverage, 95% uptime
 
 ## 🖥️ Interactive Dashboard
 
@@ -54,7 +54,7 @@ This repository contains automated threat intelligence reports analyzing global 
 
 | Date | Victims | Groups | Top Sector | Top Country | Key Threat | Report |
 |------|---------|--------|------------|-------------|------------|--------|
-| 2026-03-15 | 101 | 18 | Manufacturing | US | CRITICAL Activity | [📄](reports/weekly-report-2026-03-15.md) |
+| 2026-03-30 | 86 | 14 | Other | US | HIGH Activity | [📄](reports/weekly-report-2026-03-30.md) |
 
 ## 🏷️ Report Categories
 
