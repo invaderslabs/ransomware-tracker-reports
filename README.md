@@ -6,13 +6,13 @@
 
 ## 📊 Latest Report Summary
 
-> **Week of April 25 - May 02, 2026**: 109 new victims identified across 13 active groups
-> **[Read Full Report →](reports/weekly-report-2026-05-02.md)**
+> **Week of May 02 - May 09, 2026**: 123 new victims identified across 15 active groups
+> **[Read Full Report →](reports/weekly-report-2026-05-09.md)**
 >
 > **Key Findings:**
-> - **Most Affected Sector**: Other (24 victims)
-> - **Geographic Focus**: US (29 victims)
-> - **System Performance**: 4% group coverage, 95% uptime
+> - **Most Affected Sector**: Other (21 victims)
+> - **Geographic Focus**: US (32 victims)
+> - **System Performance**: 5% group coverage, 95% uptime
 
 ## 🖥️ Interactive Dashboard
 
@@ -54,7 +54,7 @@ This repository contains automated threat intelligence reports analyzing global 
 
 | Date | Victims | Groups | Top Sector | Top Country | Key Threat | Report |
 |------|---------|--------|------------|-------------|------------|--------|
-| 2026-05-02 | 109 | 13 | Other | US | CRITICAL Activity | [📄](reports/weekly-report-2026-05-02.md) |
+| 2026-05-09 | 123 | 15 | Other | US | CRITICAL Activity | [📄](reports/weekly-report-2026-05-09.md) |
 
 ## 🏷️ Report Categories
 
